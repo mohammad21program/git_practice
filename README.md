@@ -8,4 +8,3 @@
 5.  Visit to [Facebook](https://www.facebook.com)
 
 <https://www.markdownguide.org>
-<fake@example.com>
