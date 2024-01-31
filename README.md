@@ -1,5 +1,2 @@
-Try to put a blank line before...
-
-# Heading
-
-...and after a heading.
+This is the first line.  
+And this is the second line.
