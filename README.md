@@ -1,9 +1,6 @@
-> > Testering 2
+* This is the first list item.
+* Here's the second list item.
 
-- # first
-- # second
-- # third
-- fourth
-- fiveth
-- sixth
-- seventh
+    > A blockquote would look great below the second list item.
+
+* And here's the third list item.
